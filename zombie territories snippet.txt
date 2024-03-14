@@ -1,0 +1,6 @@
+Copy code below and paste into your zombie_territories.xml file.
+
+
+   <territory color="1289674462">
+        <zone name="InfectedSuperHorde3" smin="25" smax="25" dmin="50" dmax="75" x="11996.57" z="12528.22" r="50"/>
+    </territory>
