@@ -17,6 +17,13 @@ STEPS:  Follow the steps below to install and use these files.
 6.  Validate your files before uploading.
 7.  Upload files to your server and reset.
 
+OPTIONAL ZOMBIE HORDE
+8.  Copy the zombiehorde event snippet into your events.xml file.
+9.  Copy the zombie territories snippet into your zombie_territories.xml file.
+10.  Validate your files.
+11.  Upload files to your server and restart.
+
+
 ADDITIONAL INFORMATION
 If you would like to edit this file I have included the .dze file.
 
@@ -28,4 +35,3 @@ Xbox Dayz Server Discord:  https://discord.gg/PszAyU69Ab
 Twitch: https://www.twitch.tv/billymac3rd 
 
 If you like this mod and use it on your server consider buying me a cup of coffee:  https://www.paypal.com/donate/?hosted_button_id=NRL39VXCLUEUC
-
